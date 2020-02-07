@@ -22,8 +22,12 @@ wstool 사용하여 lunar-ros_com 설치
 ./src/catkin/bin/catkin_make_isolated --install -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH="/usr/local/opt/qt;/Users/jongchulseon/Development/lunar_barebone/install_isolated" -DCMAKE_FIND_FRAMEWORK=LAST -DPYTHON_INCLUDE_DIR="/usr/local/Cellar/python@2/2.7.16/Frameworks/Python.framework/Headers" -DPYTHON_LIBRARY="/usr/local/Cellar/python@2/2.7.16/Frameworks/Python.framework/Versions/2.7/lib/libpython2.7.dylib" -DCMAKE_MACOSX_RPATH=ON -DCMAKE_INSTALL_RPATH="/Users/jongchulseon/Development/lunar_barebone/install_isolated/lib" -DCMAKE_CXX_FLAGS="-std=c++14"
 ```
 
+컴파일 성공한 패키지 리스트 
 
-- 
+ ```
+lunar-ros_comm-wet.rosinstall
+lunar-ros_extra-wet.rosinstall
+ ```
 
 
 

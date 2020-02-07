@@ -1,0 +1,316 @@
+- tar:
+    local-name: dynamic_reconfigure
+    uri: https://github.com/ros-gbp/dynamic_reconfigure-release/archive/release/lunar/dynamic_reconfigure/1.5.50-0.tar.gz
+    version: dynamic_reconfigure-release-release-lunar-dynamic_reconfigure-1.5.50-0
+- tar:
+    local-name: common_msgs/actionlib_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release/archive/release/lunar/actionlib_msgs/1.12.7-0.tar.gz
+    version: common_msgs-release-release-lunar-actionlib_msgs-1.12.7-0
+- tar:
+    local-name: actionlib
+    uri: https://github.com/ros-gbp/actionlib-release/archive/release/lunar/actionlib/1.11.15-0.tar.gz
+    version: actionlib-release-release-lunar-actionlib-1.11.15-0
+- tar:
+    local-name: angles
+    uri: https://github.com/ros-gbp/geometry_angles_utils-release/archive/release/lunar/angles/1.9.11-0.tar.gz
+    version: geometry_angles_utils-release-release-lunar-angles-1.9.11-0
+- tar:
+    local-name: urdf/urdf
+    uri: https://github.com/ros-gbp/urdf-release/archive/release/lunar/urdf/1.12.12-0.tar.gz
+    version: urdf-release-release-lunar-urdf-1.12.12-0
+- tar:
+    local-name: urdf/urdf_parser_plugin
+    uri: https://github.com/ros-gbp/urdf-release/archive/release/lunar/urdf_parser_plugin/1.12.12-0.tar.gz
+    version: urdf-release-release-lunar-urdf_parser_plugin-1.12.12-0
+- tar:
+    local-name: nodelet_core/nodelet
+    uri: https://github.com/ros-gbp/nodelet_core-release/archive/release/lunar/nodelet/1.9.14-0.tar.gz
+    version: nodelet_core-release-release-lunar-nodelet-1.9.14-0
+- tar:
+    local-name: nodelet_core/nodelet_core
+    uri: https://github.com/ros-gbp/nodelet_core-release/archive/release/lunar/nodelet_core/1.9.14-0.tar.gz
+    version: nodelet_core-release-release-lunar-nodelet_core-1.9.14-0
+- tar:
+    local-name: nodelet_core/nodelet_topic_tools
+    uri: https://github.com/ros-gbp/nodelet_core-release/archive/release/lunar/nodelet_topic_tools/1.9.14-0.tar.gz
+    version: nodelet_core-release-release-lunar-nodelet_topic_tools-1.9.14-0
+- tar:
+    local-name: pluginlib
+    uri: https://github.com/ros-gbp/pluginlib-release/archive/release/lunar/pluginlib/1.11.3-0.tar.gz
+    version: pluginlib-release-release-lunar-pluginlib-1.11.3-0
+- tar:
+    local-name: bond_core/bond
+    uri: https://github.com/ros-gbp/bond_core-release/archive/release/lunar/bond/1.8.3-0.tar.gz
+    version: bond_core-release-release-lunar-bond-1.8.3-0
+- tar:
+    local-name: bond_core/bond_core
+    uri: https://github.com/ros-gbp/bond_core-release/archive/release/lunar/bond_core/1.8.3-0.tar.gz
+    version: bond_core-release-release-lunar-bond_core-1.8.3-0
+- tar:
+    local-name: bond_core/bondcpp
+    uri: https://github.com/ros-gbp/bond_core-release/archive/release/lunar/bondcpp/1.8.3-0.tar.gz
+    version: bond_core-release-release-lunar-bondcpp-1.8.3-0
+- tar:
+    local-name: bond_core/bondpy
+    uri: https://github.com/ros-gbp/bond_core-release/archive/release/lunar/bondpy/1.8.3-0.tar.gz
+    version: bond_core-release-release-lunar-bondpy-1.8.3-0
+- tar:
+    local-name: bond_core/smclib
+    uri: https://github.com/ros-gbp/bond_core-release/archive/release/lunar/smclib/1.8.3-0.tar.gz
+    version: bond_core-release-release-lunar-smclib-1.8.3-0
+- tar:
+    local-name: class_loader
+    uri: https://github.com/ros-gbp/class_loader-release/archive/release/lunar/class_loader/0.3.9-0.tar.gz
+    version: class_loader-release-release-lunar-class_loader-0.3.9-0
+- tar:
+    local-name: ros_tutorials/turtlesim
+    uri: https://github.com/ros-gbp/ros_tutorials-release/archive/release/lunar/turtlesim/0.8.1-0.tar.gz
+    version: ros_tutorials-release-release-lunar-turtlesim-0.8.1-0
+- tar:
+    local-name: common_msgs/sensor_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release/archive/release/lunar/sensor_msgs/1.12.7-0.tar.gz
+    version: common_msgs-release-release-lunar-sensor_msgs-1.12.7-0
+- tar:
+    local-name: common_msgs/stereo_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release/archive/release/lunar/stereo_msgs/1.12.7-0.tar.gz
+    version: common_msgs-release-release-lunar-stereo_msgs-1.12.7-0
+- tar:
+    local-name: common_msgs/shape_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release/archive/release/lunar/shape_msgs/1.12.7-0.tar.gz
+    version: common_msgs-release-release-lunar-shape_msgs-1.12.7-0
+- tar:
+    local-name: common_msgs/trajectory_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release/archive/release/lunar/trajectory_msgs/1.12.7-0.tar.gz
+    version: common_msgs-release-release-lunar-trajectory_msgs-1.12.7-0
+- tar:
+    local-name: vision_opencv/cv_bridge
+    uri: https://github.com/ros-gbp/vision_opencv-release/archive/release/lunar/cv_bridge/1.12.8-0.tar.gz
+    version: vision_opencv-release-release-lunar-cv_bridge-1.12.8-0
+- tar:
+    local-name: image_common/image_common
+    uri: https://github.com/ros-gbp/image_common-release/archive/release/lunar/image_common/1.11.13-0.tar.gz
+    version: image_common-release-release-lunar-image_common-1.11.13-0
+- tar:
+    local-name: image_common/image_transport
+    uri: https://github.com/ros-gbp/image_common-release/archive/release/lunar/image_transport/1.11.13-0.tar.gz
+    version: image_common-release-release-lunar-image_transport-1.11.13-0   
+- tar:
+    local-name: image_transport_plugins/compressed_depth_image_transport
+    uri: https://github.com/ros-gbp/image_transport_plugins-release/archive/release/lunar/compressed_depth_image_transport/1.9.5-0.tar.gz
+    version: image_transport_plugins-release-release-lunar-compressed_depth_image_transport-1.9.5-0
+- tar:
+    local-name: image_transport_plugins/compressed_image_transport
+    uri: https://github.com/ros-gbp/image_transport_plugins-release/archive/release/lunar/compressed_image_transport/1.9.5-0.tar.gz
+    version: image_transport_plugins-release-release-lunar-compressed_image_transport-1.9.5-0
+- tar:
+    local-name: image_transport_plugins/image_transport_plugins
+    uri: https://github.com/ros-gbp/image_transport_plugins-release/archive/release/lunar/image_transport_plugins/1.9.5-0.tar.gz
+    version: image_transport_plugins-release-release-lunar-image_transport_plugins-1.9.5-0
+- tar:
+    local-name: image_transport_plugins/theora_image_transport
+    uri: https://github.com/ros-gbp/image_transport_plugins-release/archive/release/lunar/theora_image_transport/1.9.5-0.tar.gz
+    version: image_transport_plugins-release-release-lunar-theora_image_transport-1.9.5-0
+- tar:
+    local-name: libraries/image_common/camera_info_manager
+    uri: https://github.com/ros-gbp/image_common-release/archive/release/lunar/camera_info_manager/1.11.13-0.tar.gz
+    version: image_common-release-release-lunar-camera_info_manager-1.11.13-0
+- tar:
+    local-name: libraries/image_common/camera_calibration_parsers
+    uri: https://github.com/ros-gbp/image_common-release/archive/release/lunar/camera_calibration_parsers/1.11.13-0.tar.gz
+    version: image_common-release-release-lunar-camera_calibration_parsers-1.11.13-0
+- tar:
+    local-name: vision_opencv/image_geometry
+    uri: https://github.com/ros-gbp/vision_opencv-release/archive/release/lunar/image_geometry/1.12.8-0.tar.gz
+    version: vision_opencv-release-release-lunar-image_geometry-1.12.8-0
+- tar:
+    local-name: common_msgs/nav_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release/archive/release/lunar/nav_msgs/1.12.7-0.tar.gz
+    version: common_msgs-release-release-lunar-nav_msgs-1.12.7-0
+- tar:
+    local-name: geometry2/tf2_geometry_msgs
+    uri: https://github.com/ros-gbp/geometry2-release/archive/release/lunar/tf2_geometry_msgs/0.5.17-0.tar.gz
+    version: geometry2-release-release-lunar-tf2_geometry_msgs-0.5.17-0
+- tar:
+    local-name: common_msgs/geometry_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release/archive/release/lunar/geometry_msgs/1.12.7-0.tar.gz
+    version: common_msgs-release-release-lunar-geometry_msgs-1.12.7-0    
+- tar:
+    local-name: geometry/eigen_conversions
+    uri: https://github.com/ros-gbp/geometry-release/archive/release/lunar/eigen_conversions/1.11.9-0.tar.gz
+    version: geometry-release-release-lunar-eigen_conversions-1.11.9-0
+- tar:
+    local-name: geometry/geometry
+    uri: https://github.com/ros-gbp/geometry-release/archive/release/lunar/geometry/1.11.9-0.tar.gz
+    version: geometry-release-release-lunar-geometry-1.11.9-0
+- tar:
+    local-name: geometry/kdl_conversions
+    uri: https://github.com/ros-gbp/geometry-release/archive/release/lunar/kdl_conversions/1.11.9-0.tar.gz
+    version: geometry-release-release-lunar-kdl_conversions-1.11.9-0
+- tar:
+    local-name: geometry/tf
+    uri: https://github.com/ros-gbp/geometry-release/archive/release/lunar/tf/1.11.9-0.tar.gz
+    version: geometry-release-release-lunar-tf-1.11.9-0
+- tar:
+    local-name: geometry/tf_conversions
+    uri: https://github.com/ros-gbp/geometry-release/archive/release/lunar/tf_conversions/1.11.9-0.tar.gz
+    version: geometry-release-release-lunar-tf_conversions-1.11.9-0
+- tar:
+    local-name: geometry2/tf2
+    uri: https://github.com/ros-gbp/geometry2-release/archive/release/lunar/tf2/0.5.20-0.tar.gz
+    version: geometry2-release-release-lunar-tf2-0.5.20-0
+- tar:
+    local-name: geometry2/tf2_sensor_msgs
+    uri: https://github.com/ros-gbp/geometry2-release/archive/release/lunar/tf2_sensor_msgs/0.5.20-0.tar.gz
+    version: geometry2-release-release-lunar-tf2_sensor_msgs-0.5.20-0
+- tar:
+    local-name: geometry2/tf2_kdl
+    uri: https://github.com/ros-gbp/geometry2-release/archive/release/lunar/tf2_kdl/0.5.20-0.tar.gz
+    version: geometry2-release-release-lunar-tf2_kdl-0.5.20-0
+- tar:
+    local-name: geometry2/tf2_msgs
+    uri: https://github.com/ros-gbp/geometry2-release/archive/release/lunar/tf2_msgs/0.5.20-0.tar.gz
+    version: geometry2-release-release-lunar-tf2_msgs-0.5.20-0
+- tar:
+    local-name: geometry2/tf2_py
+    uri: https://github.com/ros-gbp/geometry2-release/archive/release/lunar/tf2_py/0.5.20-0.tar.gz
+    version: geometry2-release-release-lunar-tf2_py-0.5.20-0
+- tar:
+    local-name: geometry2/tf2_ros
+    uri: https://github.com/ros-gbp/geometry2-release/archive/release/lunar/tf2_ros/0.5.20-0.tar.gz
+    version: geometry2-release-release-lunar-tf2_ros-0.5.20-0
+- tar:
+    local-name: geometry2/tf2_eigen
+    uri: https://github.com/ros-gbp/geometry2-release/archive/release/lunar/tf2_eigen/0.5.20-0.tar.gz
+    version: geometry2-release-release-lunar-tf2_eigen-0.5.20-0
+- tar:
+    local-name: geometry_tutorials/geometry_tutorials
+    uri: https://github.com/ros-gbp/geometry_tutorials-release/archive/release/lunar/geometry_tutorials/0.2.2-0.tar.gz
+    version: geometry_tutorials-release-release-lunar-geometry_tutorials-0.2.2-0
+- tar:
+    local-name: geometry_tutorials/turtle_tf
+    uri: https://github.com/ros-gbp/geometry_tutorials-release/archive/release/lunar/turtle_tf/0.2.2-0.tar.gz
+    version: geometry_tutorials-release-release-lunar-turtle_tf-0.2.2-0
+- tar:
+    local-name: geometry_tutorials/turtle_tf2
+    uri: https://github.com/ros-gbp/geometry_tutorials-release/archive/release/lunar/turtle_tf2/0.2.2-0.tar.gz
+    version: geometry_tutorials-release-release-lunar-turtle_tf2-0.2.2-0
+- tar:
+    local-name: robot_state_publisher
+    uri: https://github.com/ros-gbp/robot_state_publisher-release/archive/release/lunar/robot_state_publisher/1.13.6-0.tar.gz
+    version: robot_state_publisher-release-release-lunar-robot_state_publisher-1.13.6-0
+- tar:
+    local-name: kdl_parser/kdl_parser
+    uri: https://github.com/ros-gbp/kdl_parser-release/archive/release/lunar/kdl_parser/1.12.11-0.tar.gz
+    version: kdl_parser-release-release-lunar-kdl_parser-1.12.11-0
+- tar:
+    local-name: diagnostics/diagnostic_updater
+    uri: https://github.com/ros-gbp/diagnostics-release/archive/release/lunar/diagnostic_updater/1.9.3-0.tar.gz
+    version: diagnostics-release-release-lunar-diagnostic_updater-1.9.3-0
+- tar:
+    local-name: common_msgs/diagnostic_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release/archive/release/lunar/diagnostic_msgs/1.12.7-0.tar.gz
+    version: common_msgs-release-release-lunar-diagnostic_msgs-1.12.7-0
+- tar:
+    local-name: common_msgs/visualization_msgs
+    uri: https://github.com/ros-gbp/common_msgs-release/archive/release/lunar/visualization_msgs/1.12.7-0.tar.gz
+    version: common_msgs-release-release-lunar-visualization_msgs-1.12.7-0
+- tar:
+    local-name: resource_retriever
+    uri: https://github.com/ros-gbp/resource_retriever-release/archive/release/lunar/resource_retriever/1.12.4-0.tar.gz
+    version: resource_retriever-release-release-lunar-resource_retriever-1.12.4-0
+- tar:
+    local-name: eigen_stl_containers
+    uri: https://github.com/ros-gbp/eigen_stl_containers-release/archive/release/lunar/eigen_stl_containers/0.1.8-0.tar.gz
+    version: eigen_stl_containers-release-release-lunar-eigen_stl_containers-0.1.8-0
+- tar:
+    local-name: geometric_shapes
+    uri: https://github.com/ros-gbp/geometric_shapes-release/archive/release/lunar/geometric_shapes/0.5.4-0.tar.gz
+    version: geometric_shapes-release-release-lunar-geometric_shapes-0.5.4-0
+- tar:
+    local-name: random_numbers
+    uri: https://github.com/ros-gbp/random_numbers-release/archive/release/lunar/random_numbers/0.3.1-1.tar.gz
+    version: random_numbers-release-release-lunar-random_numbers-0.3.1-1
+- tar:
+    local-name: laser_geometry
+    uri: https://github.com/ros-gbp/laser_geometry-release/archive/release/lunar/laser_geometry/1.6.4-0.tar.gz
+    version: laser_geometry-release-release-lunar-laser_geometry-1.6.4-0
+- tar:
+    local-name: orocos_kinematics_dynamics/orocos_kdl
+    uri: https://github.com/smits/orocos-kdl-release/archive/release/lunar/orocos_kdl/1.3.1-0.tar.gz
+    version: orocos-kdl-release-release-lunar-orocos_kdl-1.3.1-0
+- tar:
+    local-name: rviz
+    uri: https://github.com/ros-gbp/rviz-release/archive/release/lunar/rviz/1.12.16-0.tar.gz
+    version: rviz-release-release-lunar-rviz-1.12.16-0
+- tar:
+    local-name: python_qt_binding
+    uri: https://github.com/ros-gbp/python_qt_binding-release/archive/release/lunar/python_qt_binding/0.3.4-0.tar.gz
+    version: python_qt_binding-release-release-lunar-python_qt_binding-0.3.4-0
+- tar:
+    local-name: interactive_markers
+    uri: https://github.com/ros-gbp/interactive_markers-release/archive/release/lunar/interactive_markers/1.11.3-0.tar.gz
+    version: interactive_markers-release-release-lunar-interactive_markers-1.11.3-0
+- tar:
+    local-name: navigation_msgs/map_msgs
+    uri: https://github.com/ros-gbp/navigation_msgs-release/archive/release/lunar/map_msgs/1.13.0-0.tar.gz
+    version: navigation_msgs-release-release-lunar-map_msgs-1.13.0-0
+- tar:
+    local-name: rosconsole_bridge
+    uri: https://github.com/ros-gbp/rosconsole_bridge-release/archive/release/lunar/rosconsole_bridge/0.5.2-0.tar.gz
+    version: rosconsole_bridge-release-release-lunar-rosconsole_bridge-0.5.2-0
+- tar:
+    local-name: image_pipeline/depth_image_proc
+    uri: https://github.com/ros-gbp/image_pipeline-release/archive/release/lunar/depth_image_proc/1.12.23-0.tar.gz
+    version: image_pipeline-release-release-lunar-depth_image_proc-1.12.23-0
+- tar:
+    local-name: xacro
+    uri: https://github.com/ros-gbp/xacro-release/archive/release/lunar/xacro/1.12.2-0.tar.gz
+    version: xacro-release-release-lunar-xacro-1.12.2-0
+- tar:
+    local-name: roslint
+    uri: https://github.com/ros-gbp/roslint-release/archive/release/lunar/roslint/0.11.1-0.tar.gz
+    version: roslint-release-release-lunar-roslint-0.11.1-0
+- tar:
+    local-name: perception_pcl/pcl_ros
+    uri: https://github.com/ros-gbp/perception_pcl-release/archive/release/lunar/pcl_ros/1.5.4-0.tar.gz
+    version: perception_pcl-release-release-lunar-pcl_ros-1.5.4-0
+- tar:
+    local-name: pcl_conversions
+    uri: https://github.com/ros-gbp/pcl_conversions-release/archive/release/lunar/pcl_conversions/0.2.1-0.tar.gz
+    version: pcl_conversions-release-release-lunar-pcl_conversions-0.2.1-0
+- tar:
+    local-name: pcl_msgs
+    uri: https://github.com/ros-gbp/pcl_msgs-release/archive/release/lunar/pcl_msgs/0.2.0-0.tar.gz
+    version: pcl_msgs-release-release-lunar-pcl_msgs-0.2.0-0
+- tar:
+    local-name: rqt_tf_tree
+    uri: https://github.com/ros-gbp/rqt_tf_tree-release/archive/release/lunar/rqt_tf_tree/0.6.0-0.tar.gz
+    version: rqt_tf_tree-release-release-lunar-rqt_tf_tree-0.6.0-0
+- tar:
+    local-name: rqt/rqt_gui
+    uri: https://github.com/ros-gbp/rqt-release/archive/release/lunar/rqt_gui/0.5.0-0.tar.gz
+    version: rqt-release-release-lunar-rqt_gui-0.5.0-0
+- tar:
+    local-name: qt_gui_core/qt_dotgraph
+    uri: https://github.com/ros-gbp/qt_gui_core-release/archive/release/lunar/qt_dotgraph/0.3.11-0.tar.gz
+    version: qt_gui_core-release-release-lunar-qt_dotgraph-0.3.11-0
+- tar:
+    local-name: qt_gui_core/qt_gui
+    uri: https://github.com/ros-gbp/qt_gui_core-release/archive/release/lunar/qt_gui/0.3.11-0.tar.gz
+    version: qt_gui_core-release-release-lunar-qt_gui-0.3.11-0
+- tar:
+    local-name: qt_gui_core/qt_gui_cpp
+    uri: https://github.com/ros-gbp/qt_gui_core-release/archive/release/lunar/qt_gui_cpp/0.3.11-0.tar.gz
+    version: qt_gui_core-release-release-lunar-qt_gui_cpp-0.3.11-0
+- tar:
+    local-name: qt_gui_core/qt_gui_py_common
+    uri: https://github.com/ros-gbp/qt_gui_core-release/archive/release/lunar/qt_gui_py_common/0.3.11-0.tar.gz
+    version: qt_gui_core-release-release-lunar-qt_gui_py_common-0.3.11-0
+- tar:
+    local-name: rqt_tf_tree
+    uri: https://github.com/ros-gbp/rqt_tf_tree-release/archive/release/lunar/rqt_tf_tree/0.6.0-0.tar.gz
+    version: rqt_tf_tree-release-release-lunar-rqt_tf_tree-0.6.0-0
+- tar:
+    local-name: joint_state_publisher
+    uri: https://github.com/ros-gbp/joint_state_publisher-release/archive/release/lunar/joint_state_publisher/1.12.13-0.tar.gz
+    version: joint_state_publisher-release-release-lunar-joint_state_publisher-1.12.13-0
