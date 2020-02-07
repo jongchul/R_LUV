@@ -10,8 +10,11 @@ wstool 사용하여 lunar-ros_com 설치
 
 - 컴파일 옵션 (jongchulseon 은 제 노트북에 한정된 경로입니다. 각자의 환경에 맞게 수정하시면 됩니다. )
 
+
+```
 - rosinstall_generator ros_comm --rosdistro lunar --deps --tar > lunar-ros_comm.rosinstall
 - wstool init -j8 src lunar-ros_comm.rosinstall
+```
 
 - 빌드
 
