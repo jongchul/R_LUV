@@ -33,5 +33,6 @@ lunar-ros_extra-wet.rosinstall
 
 - CMakeLists.txt 수정 
 - opencv version 4.1.2 에 맞게 관련 패키지 소스 변경 
+- 디펜던시 관리는 최대한 brew 사용
 
 
