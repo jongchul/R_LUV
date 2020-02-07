@@ -1,10 +1,10 @@
-##주요 참조 링크
+## 주요 참조 링크
 - https://github.com/ros/ros_comm/issues/1357
 - https://github.com/mikepurvis/ros-install-osx
 - http://wiki.ros.org/lunar/Installation/Source
 
 
-##wstool 사용하여 lunar-ros_com 설치
+## wstool 사용하여 lunar-ros_com 설치
 
 - 주요 환경 : python 2.7, opencv 4.1.2
 
